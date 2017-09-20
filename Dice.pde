@@ -99,4 +99,3 @@ class Die //models one single dice cube
     rect(myX,myY,30,30);
   }
 }
-//.
